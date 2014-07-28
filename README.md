@@ -1,4 +1,4 @@
 learn-me-some-python
 ====================
 
-Learning python
+Learning python, need a place to scratch
