@@ -16,3 +16,10 @@ if timbitsLeft >= 10:                # step 5, can we buy a small box?
 
 totalCost = totalCost + (timbitsLeft * .20) # step 6
 print(totalCost)                         # step 7
+
+
+#heads and tails:
+
+mystring=input()
+mynewstring=(mystring[-1]+mystring[1:-1]+mystring[0])
+print(mynewstring)
