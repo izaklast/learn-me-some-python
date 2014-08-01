@@ -3,4 +3,8 @@
 
 name=input()
 bo=("bo-" + "b" + (name[1:10]))
+
 print(name+", " +name+", " +bo)
+print("banana-fana fo-f" + (name[1:10]))
+print("fee-fi-mo-m" + (name[1:10])) 
+print(name + "!")
